@@ -1,6 +1,6 @@
 # Golang Backend Learning Journey 🚀
 
-This repository documents my backend development journey using Go, starting from JSON manipulation to building REST APIs using Gin framework.
+This repository documents my backend development journey using Go.
 
 ---
 
